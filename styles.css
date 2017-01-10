@@ -1,0 +1,21 @@
+.weekday {
+  float: left;
+  width: 14.28%;
+  height: 5%;
+  display: block;
+  position: relative;
+  padding-bottom: 1%;
+}
+
+.weekday:before,
+.weekday:after {
+  content: '';
+  display: table;
+  clear: both;
+  color: black;
+}
+
+.highlight {
+  color: green;
+  background-color: grey;
+}
