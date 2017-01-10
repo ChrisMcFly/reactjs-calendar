@@ -1,1 +1,1 @@
-Calendar is a simple app wrote in ReactJs.
+#Simple app calendar wrote in ReactJs.
